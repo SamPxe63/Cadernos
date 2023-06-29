@@ -1,2 +1,2 @@
 # Cadernos
- Anotações das aulas da DNC
+Essas são minhas anotações mais relevantes da formação em dados da Escola DNC. 
